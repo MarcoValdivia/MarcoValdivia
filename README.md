@@ -3,7 +3,7 @@
 
 **MarcoValdivia/MarcoValdivia** 
 
-Here are some ideas to get you started:
+Hi, I´m student of Telecommunications Engineering at the National University of San Agustin de Arequipa.
 
 
 - 🌱 I’m currently learning Git and Programation
